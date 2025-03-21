@@ -23,3 +23,5 @@ The future scope of this project includes:
 ## contract address: 
 0x4a34bFa5F0A44adB59130b0c92B591d3696Bf4A2
 ![Screenshot 2025-03-20 155247](https://github.com/user-attachments/assets/a38973a6-4fed-4ce1-9765-26a1cd26732c)
+## frontend :
+![image](https://github.com/user-attachments/assets/330aa70e-efc9-42d8-a565-028152abe3d0)
